@@ -1,7 +1,2 @@
-Aniket-Hello jiya how are you?
-Jiya-Hi aniket.I am fine.Tell About yourself.
-Aniket-I am also fine.Nothing special to tell.
-Jiya-Ok.Whats about your job? Hows it going?
-Aniket-Yahh its very well.
-Jiya-Ok!! What is name of your company?
-Aniket-I am in cliato.
+Don't have any content.
+Its a totally empty file.
